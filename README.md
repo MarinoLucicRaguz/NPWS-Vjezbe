@@ -7,8 +7,6 @@ Welcome to the repository for the subject **Advanced Web Application Programming
 1. [Introduction](#introduction)
 2. [Exercises](#exercises)
    - [Uvod (Introduction)](#uvod-introduction)
-   - [Vježba 2](#vježba-2)
-   - [Vježba 3](#vježba-3)
    - [React Context](#react-context)
    - [Express](#express)
 3. [Technologies Used](#technologies-used)
